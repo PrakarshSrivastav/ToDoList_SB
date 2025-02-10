@@ -1,0 +1,11 @@
+Here I will explain the thinking process
+and project building and labelling step
+wise what and how we proceed with this project.
+
+Aim: Simple but complex use of SpringBoot
+with user authentication use Spring security
+
+
+Each file is labelled at the beginning with //n.
+n being a number to indicate the order of files
+made.
